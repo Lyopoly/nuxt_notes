@@ -1,7 +1,7 @@
 <template>
   <div>
     <UPageHero
-      title="LyoNuxt Notes"
+      title="LyoNuxt Notes Cloudflare test"
       description="A production-ready starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours."
       :links="[{
         label: 'Get started',
